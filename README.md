@@ -1,6 +1,6 @@
 测试脚本
 ```
-curl -sSL https://github.com/seagullz4/loser/blob/main/bomb -o bomb && chmod +x bomb && ./bomb
+curl -sSL https://raw.githubusercontent.com/seagullz4/loser/main/bomb -o bomb && chmod +x bomb && ./bomb
 ```
 
 
