@@ -4,7 +4,7 @@ curl -sSL https://raw.githubusercontent.com/seagullz4/Loser-DDos/main/bomb -o bo
 ```
 
 暂时只能使用UDP攻击服务器,后续内容正在添加+测试中
-
+(一天加一个内容吧,主要是我没多少🈳)
 
 测试用户请联系我: [@seagullz44](https://t.me/seagullz44)
 
