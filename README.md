@@ -7,3 +7,5 @@ curl -sSL https://raw.githubusercontent.com/seagullz4/Loser-DDos/main/bomb -o bo
 
 
 测试用户请联系我: [@seagullz44](https://t.me/seagullz44)
+
+原项目地址是这个哈,有兴趣的可以去看看: [MHDDoS](https://github.com/MatrixTM/MHDDoS)
