@@ -2,7 +2,7 @@
 
 测试脚本(推荐使用ubuntu系统)
 ```
-curl -sSL https://raw.githubusercontent.com/seagullz4/Loser-DDos/main/bomb -o bomb && chmod +x bomb && ./bomb
+curl -sSL https://raw.githubusercontent.com/seagullz4/Loser-DDos/main/bomb.sh -o bomb.sh && chmod +x bomb.sh && ./bomb.sh
 ```
 
 暂时只能是x86/amd64架构的服务器运行
